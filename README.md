@@ -82,3 +82,19 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 plt.show()
 ```
 # OUTPUT
+![f1](https://user-images.githubusercontent.com/118889143/233913832-cb5791ef-7d54-4e89-9eec-1969fa33f233.png)
+
+![f2](https://user-images.githubusercontent.com/118889143/233913919-a505a861-f314-455a-8e10-7b1e9f0481b6.png)
+
+![f3](https://user-images.githubusercontent.com/118889143/233914021-fba93103-a020-4ef7-8bf3-bc942e54bdb7.png)
+
+![f4](https://user-images.githubusercontent.com/118889143/233914116-8010daef-6071-46ab-83c3-d48ad87f01ef.png)
+
+![f5](https://user-images.githubusercontent.com/118889143/233914189-cda56ab7-5daa-40ef-8731-e351f2c4d055.png)
+
+![f6](https://user-images.githubusercontent.com/118889143/233914293-81512048-9f9f-42df-8728-23340d226225.png)
+
+
+
+
+
