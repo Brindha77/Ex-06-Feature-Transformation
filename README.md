@@ -82,19 +82,49 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 plt.show()
 ```
 # OUTPUT
+# DATASET
 ![f1](https://user-images.githubusercontent.com/118889143/233913832-cb5791ef-7d54-4e89-9eec-1969fa33f233.png)
 
+# ISNULL
 ![f2](https://user-images.githubusercontent.com/118889143/233913919-a505a861-f314-455a-8e10-7b1e9f0481b6.png)
 
+# INFO
 ![f3](https://user-images.githubusercontent.com/118889143/233914021-fba93103-a020-4ef7-8bf3-bc942e54bdb7.png)
 
+# DESCRIBE:
 ![f4](https://user-images.githubusercontent.com/118889143/233914116-8010daef-6071-46ab-83c3-d48ad87f01ef.png)
 
+# HIGHLY POSITIVE SKEW:
 ![f5](https://user-images.githubusercontent.com/118889143/233914189-cda56ab7-5daa-40ef-8731-e351f2c4d055.png)
 
 ![f6](https://user-images.githubusercontent.com/118889143/233914293-81512048-9f9f-42df-8728-23340d226225.png)
 
+# HIGHLY NEGATIVE SKEW:
+![f7](https://user-images.githubusercontent.com/118889143/234240716-441f3262-4637-4562-8138-a7889f22ed32.png)
 
+# MODERATE POSITIVE SKEW:
+![f8](https://user-images.githubusercontent.com/118889143/234240831-9c9c1129-c260-437c-9e91-69c8eaf33dd9.png)
 
+# MODERATE NEGATIVE SKEW:
+![f9](https://user-images.githubusercontent.com/118889143/234240881-11bbb9a5-e833-4326-93cc-c933bf5b3bca.png)
 
+# LOG OF MODERATE POSITIVE SKEW:
+![f10](https://user-images.githubusercontent.com/118889143/234240938-ace8674a-7c17-4225-9282-8a3ae529180a.png)
 
+# LOG OF HIGHLY POSITIVE SKEW:
+![f11](https://user-images.githubusercontent.com/118889143/234240987-97eac9fb-0ac4-44f5-9c27-868ae3baf5dc.png)
+
+# RECIPROCAL OF HIGHLY POSITIVE SKEW:
+![f12](https://user-images.githubusercontent.com/118889143/234241055-670155b3-42ad-40b1-bc63-8311821a35d8.png)
+
+# SQUARE ROOT TRANSFORMATION:
+![f13](https://user-images.githubusercontent.com/118889143/234241146-13dc8e40-b46f-409f-8fb2-ee934b7f138f.png)
+
+# POWER TRANSFORMATION OF MODERATE NEGATIVE SKEW:
+![f14](https://user-images.githubusercontent.com/118889143/234241180-7157af4c-b21b-46b0-8cac-0f276b49d48e.png)
+
+# QUANTILE TRANSFORMATION:
+![f15](https://user-images.githubusercontent.com/118889143/234241240-cca8614e-33d4-41b7-9ec1-99f0144a2e8f.png)
+
+# RESULT
+Thus, Feature transformation is performed and executed successfully for the given dataset
