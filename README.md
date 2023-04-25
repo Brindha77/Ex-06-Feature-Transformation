@@ -1,12 +1,12 @@
 # Ex-06-Feature-Transformation
 
-# AIM
+# AIM:
 To read the given data and perform Feature Transformation process and save the data to a file.
 
-# EXPLANATION
+# EXPLANATION:
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
-# ALGORITHM
+# ALGORITHM:
 # STEP 1:
 Read the given Data
 
@@ -81,7 +81,7 @@ df5['Moderate Negative Skew_2'] = pd.DataFrame(qt.fit_transform(df5[['Moderate N
 sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 plt.show()
 ```
-# OUTPUT
+# OUTPUT:
 # DATASET
 ![f1](https://user-images.githubusercontent.com/118889143/233913832-cb5791ef-7d54-4e89-9eec-1969fa33f233.png)
 
@@ -126,5 +126,5 @@ plt.show()
 # QUANTILE TRANSFORMATION:
 ![f15](https://user-images.githubusercontent.com/118889143/234241240-cca8614e-33d4-41b7-9ec1-99f0144a2e8f.png)
 
-# RESULT
+# RESULT:
 Thus, Feature transformation is performed and executed successfully for the given dataset
